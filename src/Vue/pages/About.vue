@@ -11,7 +11,7 @@
         >
           <img
             class="profile-pic"
-            src="../../assets/images/profile-pic.png"
+            src="../../assets/images/yaph.jpg"
             alt="profile picture"
           />
         </div>

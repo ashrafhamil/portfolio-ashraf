@@ -27,7 +27,7 @@
                     <i class="fa fa-envelope"></i> Email:
                   </h3>
                   <br class="d-md-none" />
-                  <a :href="'mailto:'+ contact.email">
+                  <a :href="'mailto:'+ contact.email" style="text-transform: lowercase;">
                     <span>{{ contact.email }}</span>
                   </a>
                 </li>
@@ -108,9 +108,8 @@
       <textarea class="form-control" id="message" rows="5" placeholder="Message" required></textarea>
     </div>
 
-    <button type="submit" class="btn">
-      <i class="fa fa-paper-plane"></i> 
-      Send
+    <button type="button" class="btn" onclick="window.open('https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran', '_blank')">
+      <i class="fa fa-paper-plane"></i> Send
     </button>
   </form>
 </div>

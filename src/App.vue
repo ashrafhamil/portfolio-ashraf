@@ -2,7 +2,7 @@
   <div id="app">
     <Header />
     <About />
-    <Skills />
+    <Skills style="display: none;"/>
     <Portfolio />
     <Contact />
     <Footer />
