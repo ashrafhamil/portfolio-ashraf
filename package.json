@@ -9,7 +9,7 @@
     "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css"
   },
   "engines": {
-    "node": "18"
+    "node": "16.x"
   },
   "dependencies": {
     "@babel/core": "^7.12.3",
