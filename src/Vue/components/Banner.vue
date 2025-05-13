@@ -27,6 +27,7 @@ export default {
       autoStart: true,
       loop: true,
       deleteSpeed: 5,
+      delay: 75,
     });
   },
 };

@@ -9,7 +9,8 @@
         "Web Developer.",
         "Frontend Developer.",
         "Fullstack Developer Wannabe.",
-        "Dota 2 Thrower."
+        "Dota 2 Thrower.",
+        "Rebeccapurple ftw."
     ],
     "headings": {
       "about": "About",
@@ -26,7 +27,7 @@
         "value": "Kuala Lumpur, Malaysia"
         },
         {"name": "# of Projects",
-        "value": "11+"
+        "value": "17+"
         },
         {"name": "Coding Technique",
         "value": "Asal jalan - unless time is not a constraint"
@@ -37,32 +38,73 @@
       ]
     },
     "skills": {
-    "defaultCategory": "Skills",
+    "defaultCategory": "Frontend",
     
     "categories": [
       {
-        "category": "Skills",
-        "subtitle": "My true passion!",
-        "faClass": "fas fa-paint-brush",        
-        "skillList":[
-          {
-            "name": "Oil Painting",
-            "level": "100"
-          },
-          {
-            "name": "Watercolor",
-            "level": "90"
-          },
-          
-          {
-            "name": "Acrylic",
-            "level": "70"
-          },
-          {
-            "name": "Pastels",
-            "level": "60"
-          }
-        ]
+        "category": "Frontend",
+        "skillName": "HTML5",
+        "faClass": "devicon-html5-plain colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "CSS",
+        "faClass": "devicon-css3-plain colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "JavaScript",
+        "faClass": "devicon-javascript-plain colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "Tailwind CSS",
+        "faClass": "devicon-tailwindcss-original colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "Bootstrap",
+        "faClass": "devicon-bootstrap-plain colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "VueJS",
+        "faClass": "devicon-vuejs-plain colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "React",
+        "faClass": "devicon-react-original colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "NextJS",
+        "faClass": "devicon-nextjs-plain colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "Quasar",
+        "faClass": "devicon-quasar-plain colored"
+      },
+      {
+        "category": "Backend",
+        "skillName": "PHP",
+        "faClass": "devicon-php-plain colored"
+      },
+      {
+        "category": "Backend",
+        "skillName": "Laravel",
+        "faClass": "devicon-laravel-plain colored"
+      },
+      {
+        "category": "Database",
+        "skillName": "MySQL",
+        "faClass": "devicon-mysql-original colored"
+      }, 
+      {
+        "category": "Database",
+        "skillName": "Firebase",
+        "faClass": "devicon-firebase-plain colored"
       }
     ]
   },
@@ -83,14 +125,14 @@
       "image": "mypokedek.png",
       "link": "https://mypokedek.vercel.app/",
       "source": "https://mypokedek.vercel.app/",
-      "filter": "Vue"
+      "filter": "React"
     },
     {
       "title": "Portfolio",
       "description": "Yap's Portfolio",
       "image": "yapportfolio.png",
-      "link": "https://www.twoinchbrush.com/painting/grey-winter",
-      "source": "https://www.twoinchbrush.com/painting/grey-winter",
+      "link": "https://ashrafhamil.vercel.app/",
+      "source": "https://ashrafhamil.vercel.app/",
       "filter": "Vue"
     },
     {
@@ -115,6 +157,14 @@
       "image": "yapdictionary.png",
       "link": "https://yap-dictionary.vercel.app/",
       "source": "https://yap-dictionary.vercel.app/",
+      "filter": "Bootstrap/Tailwind"
+    },
+    {
+      "title": "Portfolio",
+      "description": "Yap's Portfolio",
+      "image": "yapportfolio.png",
+      "link": "https://ashrafhamil.vercel.app/",
+      "source": "https://ashrafhamil.vercel.app/",
       "filter": "Bootstrap/Tailwind"
     },
     {

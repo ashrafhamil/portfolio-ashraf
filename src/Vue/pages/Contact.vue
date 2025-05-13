@@ -60,7 +60,7 @@
                 <li class="list-group-item" v-if="contact.resumeLink !==''">
                   <a :href="contact.resumeLink" target="_blank" alt="resume">
                   <button class="btn btn-resume"  target="_blank">
-                    <i class="far fa-file-pdf"></i> Resume
+                    <i class="fab fa-linkedin"></i> Resume
                   </button>
                   </a>
 
