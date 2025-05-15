@@ -171,8 +171,8 @@
       "title": "Transaction History",
       "description": "Transaction Details",
       "image": "reactNative.png",
-      "link": "https://github.com/ashrafhamil/rytbank-transaction-history",
-      "source": "https://github.com/ashrafhamil/rytbank-transaction-history",
+      "link": "https://github.com/ashrafhamil/transaction-history",
+      "source": "https://github.com/ashrafhamil/transaction-history",
       "filter": "React Native"
     }
   ]
