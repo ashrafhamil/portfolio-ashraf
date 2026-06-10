@@ -37,9 +37,9 @@
                     <i class="fas fa-phone"></i>  Phone:
                   </h3>
                   <br class="d-md-none" />
-                  
-                    <span>{{ contact.phone }}</span>
-                  
+                  <a :href="whatsappLink" target="_blank" rel="noopener">
+                    <span>&nbsp; {{ contact.phone }}</span>
+                  </a>
                 </li>
                 <li class="list-group-item">
                   <h3 class="d-inline">
@@ -144,6 +144,13 @@ export default {
       social: data.contact.social,
       heading: data.main.headings.contact,
     };
+  },
+  computed: {
+    whatsappLink() {
+      const digits = String(this.contact.phone).replace(/\D/g, "");
+      const intl = digits.startsWith("0") ? "60" + digits.slice(1) : digits;
+      return "https://wa.me/" + intl;
+    },
   },
 };
 </script>

@@ -39,16 +39,6 @@
         {{ text.footer.copyrightText }}
       </p>
     </div>
-    <div class="credit">
-      <p>
-        Thanks <a
-          id="username"
-          href="https://www.github.com/darnocer"
-          alt="Darian's Github"
-          >darnocer</a
-        > for the template :)
-      </p>
-    </div>
   </footer>
 </template>
 
