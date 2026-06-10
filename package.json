@@ -4,13 +4,13 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --host localhost --port 8080",
-    "build": "vue-cli-service build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vue-cli-service build",
     "lint": "vue-cli-service lint",
     "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css"
   },
   "engines": {
-  "node": "18.x"
-},
+    "node": "24.x"
+  },
   "dependencies": {
     "@babel/core": "^7.12.3",
     "aos": "^2.3.4",
