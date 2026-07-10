@@ -240,10 +240,10 @@
       "filter": "Games"
     },
     {
-      "title": "Speed Typing",
+      "title": "Monkeytype Lite",
       "description": "Typing Speed Game",
       "image": "typinggame.png",
-      "link": "https://typing-game.vercel.app/",
+      "link": "https://typing-game-three-eta.vercel.app/",
       "source": "",
       "filter": "Games"
     }
