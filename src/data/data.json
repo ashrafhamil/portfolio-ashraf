@@ -206,6 +206,46 @@
       "link": "https://azmi-co-perak-web.vercel.app/",
       "source": "",
       "filter": "Web"
+    },
+    {
+      "title": "Ball Roller",
+      "description": "3D Rolling Ball Game — Three.js",
+      "image": "ballroller.png",
+      "link": "https://abebola.vercel.app/",
+      "source": "",
+      "filter": "Games"
+    },
+    {
+      "title": "Kids Edu Arcade",
+      "description": "Learn & Play Arcade for Kids",
+      "image": "kidsarcade.png",
+      "link": "https://kids-edu-arcade.vercel.app/",
+      "source": "",
+      "filter": "Games"
+    },
+    {
+      "title": "Tank Maze",
+      "description": "Tank Battle Maze Game",
+      "image": "tankmaze.png",
+      "link": "https://tank-maze.vercel.app/",
+      "source": "",
+      "filter": "Games"
+    },
+    {
+      "title": "Kamalized",
+      "description": "Puzzle Edition — Mini Games",
+      "image": "kamalized.png",
+      "link": "https://kamalized-games.vercel.app/",
+      "source": "",
+      "filter": "Games"
+    },
+    {
+      "title": "Speed Typing",
+      "description": "Typing Speed Game",
+      "image": "typinggame.png",
+      "link": "https://typing-game.vercel.app/",
+      "source": "",
+      "filter": "Games"
     }
   ]
 },
