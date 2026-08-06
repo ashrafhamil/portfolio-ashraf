@@ -93,11 +93,6 @@
       },
       {
         "category": "Frontend",
-        "skillName": "React Native",
-        "faClass": "devicon-reactnative-original colored"
-      },
-      {
-        "category": "Frontend",
         "skillName": "Sass",
         "faClass": "devicon-sass-original colored"
       },
@@ -105,6 +100,16 @@
         "category": "Frontend",
         "skillName": "Vite",
         "faClass": "devicon-vitejs-plain colored"
+      },
+      {
+        "category": "Mobile",
+        "skillName": "React Native",
+        "faClass": "devicon-reactnative-original colored"
+      },
+      {
+        "category": "Mobile",
+        "skillName": "Expo",
+        "faClass": "devicon-expo-original colored"
       },
       {
         "category": "Backend",
