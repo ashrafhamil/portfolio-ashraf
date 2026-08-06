@@ -268,7 +268,7 @@ header {
     text-overflow: ellipsis;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.15s ease 0.1s; }
+    transition: opacity 0.15s ease 0.5s; }
   #portfolio .portfolio-item:hover::after {
     opacity: 1; }
   #portfolio .portfolio-item:hover .overlay {
