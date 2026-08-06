@@ -163,6 +163,16 @@
       },
       {
         "category": "DevOps",
+        "skillName": "Bitbucket",
+        "faClass": "devicon-bitbucket-original colored"
+      },
+      {
+        "category": "DevOps",
+        "skillName": "GitLab",
+        "faClass": "devicon-gitlab-plain colored"
+      },
+      {
+        "category": "DevOps",
         "skillName": "Nginx",
         "faClass": "devicon-nginx-original colored"
       },
