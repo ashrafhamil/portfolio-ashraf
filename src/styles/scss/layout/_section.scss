@@ -22,7 +22,8 @@ section {
 
 .filters {
   a {
-    padding: $spacer;
+    display: inline-block;
+    padding: $spacer-sm $spacer;
   }
 
   .filter {

@@ -124,7 +124,8 @@ section {
     background-color: inherit; }
 
 .filters a {
-  padding: 2rem; }
+  display: inline-block;
+  padding: 1rem 2rem; }
 
 .filters .filter {
   margin: 0 auto; }
