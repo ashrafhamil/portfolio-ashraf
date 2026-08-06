@@ -109,8 +109,40 @@
     ]
   },
 "portfolio": {
-  "defaultFilter": "Vue",
+  "defaultFilter": "Web",
   "projects": [
+    {
+      "title": "Serene Coffee",
+      "description": "Cafe Website — Ipoh",
+      "image": "serene.png",
+      "link": "https://serene-coffee-website.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Twenty One Cafe",
+      "description": "Cafe Website — Meru, Ipoh",
+      "image": "twentyone.png",
+      "link": "https://twentyone-cafe.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Nekmie's Cafe",
+      "description": "Cafe Website — Ipoh",
+      "image": "nekmies.png",
+      "link": "https://nekmies-cafe.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Azmi & Co",
+      "description": "Property Firm — Perak",
+      "image": "azmi.png",
+      "link": "https://azmi-co-perak-web.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
     {
       "title": "Pokedek",
       "description": "Vue",
@@ -174,38 +206,6 @@
       "link": "https://github.com/ashrafhamil/transaction-history",
       "source": "https://github.com/ashrafhamil/transaction-history",
       "filter": "React Native"
-    },
-    {
-      "title": "Serene Coffee",
-      "description": "Cafe Website — Ipoh",
-      "image": "serene.png",
-      "link": "https://serene-coffee-website.vercel.app/",
-      "source": "",
-      "filter": "Web"
-    },
-    {
-      "title": "Twenty One Cafe",
-      "description": "Cafe Website — Meru, Ipoh",
-      "image": "twentyone.png",
-      "link": "https://twentyone-cafe.vercel.app/",
-      "source": "",
-      "filter": "Web"
-    },
-    {
-      "title": "Nekmie's Cafe",
-      "description": "Cafe Website — Ipoh",
-      "image": "nekmies.png",
-      "link": "https://nekmies-cafe.vercel.app/",
-      "source": "",
-      "filter": "Web"
-    },
-    {
-      "title": "Azmi & Co",
-      "description": "Property Firm — Perak",
-      "image": "azmi.png",
-      "link": "https://azmi-co-perak-web.vercel.app/",
-      "source": "",
-      "filter": "Web"
     },
     {
       "title": "Ball Roller",
