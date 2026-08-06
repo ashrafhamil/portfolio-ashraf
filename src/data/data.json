@@ -270,7 +270,7 @@
     {
       "title": "Pokedek",
       "description": "Vue",
-      "image": "vuepokedek.png",
+      "image": "vuepokedek.jpg",
       "link": "https://vuepokedek.vercel.app/",
       "source": "https://vuepokedek.vercel.app/",
       "filter": "Vue"
@@ -278,7 +278,7 @@
     {
       "title": "Pokedek",
       "description": "React",
-      "image": "mypokedek.png",
+      "image": "mypokedek.jpg",
       "link": "https://mypokedek.vercel.app/",
       "source": "https://mypokedek.vercel.app/",
       "filter": "React"
@@ -286,7 +286,7 @@
     {
       "title": "Portfolio",
       "description": "Yap's Portfolio",
-      "image": "yapportfolio.png",
+      "image": "yapportfolio.jpg",
       "link": "https://ashrafhamil.com/",
       "source": "https://ashrafhamil.com/",
       "filter": "Vue"
@@ -294,7 +294,7 @@
     {
       "title": "Referral",
       "description": "Yap's Referral Codes",
-      "image": "yaprefer.png",
+      "image": "yaprefer.jpg",
       "link": "https://yap-refer.vercel.app/",
       "source": "https://yap-refer.vercel.app/",
       "filter": "React"
@@ -302,7 +302,7 @@
     {
       "title": "Template",
       "description": "Arep Holding",
-      "image": "arepholding.png",
+      "image": "arepholding.jpg",
       "link": "https://arep-holding.vercel.app/",
       "source": "https://arep-holding.vercel.app/",
       "filter": "React"
@@ -310,7 +310,7 @@
     {
       "title": "Component Dictionary",
       "description": "Yap's Component Dictionary",
-      "image": "yapdictionary.png",
+      "image": "yapdictionary.jpg",
       "link": "https://yap-dictionary.vercel.app/",
       "source": "https://yap-dictionary.vercel.app/",
       "filter": "Bootstrap/Tailwind"
@@ -318,7 +318,7 @@
     {
       "title": "Portfolio",
       "description": "Yap's Portfolio",
-      "image": "yapportfolio.png",
+      "image": "yapportfolio.jpg",
       "link": "https://ashrafhamil.com/",
       "source": "https://ashrafhamil.com/",
       "filter": "Bootstrap/Tailwind"
@@ -326,7 +326,7 @@
     {
       "title": "Transaction History",
       "description": "Transaction Details",
-      "image": "reactNative.png",
+      "image": "reactNative.jpg",
       "link": "https://github.com/ashrafhamil/transaction-history",
       "source": "https://github.com/ashrafhamil/transaction-history",
       "filter": "React Native"
@@ -334,7 +334,7 @@
     {
       "title": "Ball Roller",
       "description": "3D Rolling Ball Game — Three.js",
-      "image": "ballroller.png",
+      "image": "ballroller.jpg",
       "link": "https://abebola.vercel.app/",
       "source": "",
       "filter": "Games"
@@ -342,7 +342,7 @@
     {
       "title": "Kids Edu Arcade",
       "description": "Learn & Play Arcade for Kids",
-      "image": "kidsarcade.png",
+      "image": "kidsarcade.jpg",
       "link": "https://kids-edu-arcade.vercel.app/",
       "source": "",
       "filter": "Games"
@@ -350,7 +350,7 @@
     {
       "title": "Tank Maze",
       "description": "Tank Battle Maze Game",
-      "image": "tankmaze.png",
+      "image": "tankmaze.jpg",
       "link": "https://tank-maze.vercel.app/",
       "source": "",
       "filter": "Games"
@@ -358,7 +358,7 @@
     {
       "title": "Kamalized",
       "description": "Puzzle Edition — Mini Games",
-      "image": "kamalized.png",
+      "image": "kamalized.jpg",
       "link": "https://kamalized-games.vercel.app/",
       "source": "",
       "filter": "Games"
@@ -366,7 +366,7 @@
     {
       "title": "Monkeytype Lite",
       "description": "Typing Speed Game",
-      "image": "typinggame.png",
+      "image": "typinggame.jpg",
       "link": "https://typing-game-three-eta.vercel.app/",
       "source": "",
       "filter": "Games"
