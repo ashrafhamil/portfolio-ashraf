@@ -112,6 +112,16 @@
         "faClass": "devicon-expo-original colored"
       },
       {
+        "category": "Mobile",
+        "skillName": "iOS",
+        "faClass": "devicon-apple-original colored"
+      },
+      {
+        "category": "Mobile",
+        "skillName": "Android",
+        "faClass": "devicon-android-plain colored"
+      },
+      {
         "category": "Backend",
         "skillName": "PHP",
         "faClass": "devicon-php-plain colored"
