@@ -220,14 +220,6 @@
       "filter": "Web"
     },
     {
-      "title": "Kira-Kira",
-      "description": "Kopitiam Split-Bill Tracker",
-      "image": "kirakira.jpg",
-      "link": "https://kira-kira-ashrafhamils-projects.vercel.app/",
-      "source": "https://github.com/ashrafhamil/kira-kira",
-      "filter": "Web"
-    },
-    {
       "title": "UmrahSaf",
       "description": "Umrah Planning Platform — Malaysia",
       "image": "umrahsaf.jpg",
@@ -236,18 +228,26 @@
       "filter": "Web"
     },
     {
-      "title": "Serene Coffee",
-      "description": "Cafe Website — Ipoh",
-      "image": "serene.jpg",
-      "link": "https://serene-coffee-website.vercel.app/",
+      "title": "Azmi & Co",
+      "description": "Property Firm — Perak",
+      "image": "azmi.jpg",
+      "link": "https://azmi-co-perak-web.vercel.app/",
       "source": "",
       "filter": "Web"
     },
     {
-      "title": "Twenty One Cafe",
-      "description": "Cafe Website — Meru, Ipoh",
-      "image": "twentyone.jpg",
-      "link": "https://twentyone-cafe.vercel.app/",
+      "title": "Kira-Kira",
+      "description": "Kopitiam Split-Bill Tracker",
+      "image": "kirakira.jpg",
+      "link": "https://kira-kira-ashrafhamils-projects.vercel.app/",
+      "source": "https://github.com/ashrafhamil/kira-kira",
+      "filter": "Web"
+    },
+    {
+      "title": "Serene Coffee",
+      "description": "Cafe Website — Ipoh",
+      "image": "serene.jpg",
+      "link": "https://serene-coffee-website.vercel.app/",
       "source": "",
       "filter": "Web"
     },
@@ -260,10 +260,10 @@
       "filter": "Web"
     },
     {
-      "title": "Azmi & Co",
-      "description": "Property Firm — Perak",
-      "image": "azmi.jpg",
-      "link": "https://azmi-co-perak-web.vercel.app/",
+      "title": "Twenty One Cafe",
+      "description": "Cafe Website — Meru, Ipoh",
+      "image": "twentyone.jpg",
+      "link": "https://twentyone-cafe.vercel.app/",
       "source": "",
       "filter": "Web"
     },
