@@ -227,6 +227,8 @@ header {
     font-size: 1.2rem; }
   #portfolio .portfolio-item img {
     width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
     display: block; }
   #portfolio .portfolio-item .overlay {
     position: absolute;
