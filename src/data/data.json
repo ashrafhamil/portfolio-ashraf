@@ -163,6 +163,11 @@
       },
       {
         "category": "DevOps",
+        "skillName": "GitHub",
+        "faClass": "devicon-github-original colored"
+      },
+      {
+        "category": "DevOps",
         "skillName": "Bitbucket",
         "faClass": "devicon-bitbucket-original colored"
       },
