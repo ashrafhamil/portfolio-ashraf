@@ -34,10 +34,11 @@
           <div class="portfolio-item">
             <img :src="require(`../../assets/images/portfolio/${item.image}`)" />
             <div class="overlay">
-              <a :href="item.link" :title="item.link" target="_blank">
+              <a :href="item.link" target="_blank">
                 <div class="portfolio-item-content">
                   <h3>{{ item.title }}</h3>
                   <p>{{ item.description }}</p>
+                  <p class="portfolio-link">{{ displayLink(item.link) }}</p>
                   <div v-if="item.source !== '' " class="link-icons">
                     <a :href="item.source" title="Source Code" target="_blank">
                       <i class="fas fa-code fa-2x"></i>
@@ -95,6 +96,9 @@ export default {
   methods: {
     setFilter(event) {
       this.currentFilter = event.target.dataset.filter;
+    },
+    displayLink(link) {
+      return link.replace(/^https?:\/\//, "").replace(/\/$/, "");
     },
   },
 };
