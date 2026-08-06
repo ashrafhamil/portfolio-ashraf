@@ -34,7 +34,7 @@
           <div class="portfolio-item">
             <img :src="require(`../../assets/images/portfolio/${item.image}`)" />
             <div class="overlay">
-              <a :href="item.link" title="Live Demo" target="_blank">
+              <a :href="item.link" :title="item.title" target="_blank">
                 <div class="portfolio-item-content">
                   <h3>{{ item.title }}</h3>
                   <p>{{ item.description }}</p>
