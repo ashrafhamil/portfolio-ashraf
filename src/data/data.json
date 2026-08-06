@@ -212,6 +212,22 @@
   "defaultFilter": "Web",
   "projects": [
     {
+      "title": "Santuy Play",
+      "description": "Badminton Booking & Rewards — KL/Selangor",
+      "image": "santuyplay.png",
+      "link": "https://santuy-play.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Kira-Kira",
+      "description": "Kopitiam Split-Bill Tracker",
+      "image": "kirakira.png",
+      "link": "https://kira-kira-ashrafhamils-projects.vercel.app/",
+      "source": "https://github.com/ashrafhamil/kira-kira",
+      "filter": "Web"
+    },
+    {
       "title": "Serene Coffee",
       "description": "Cafe Website — Ipoh",
       "image": "serene.png",
