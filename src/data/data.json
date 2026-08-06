@@ -87,6 +87,26 @@
         "faClass": "devicon-quasar-plain colored"
       },
       {
+        "category": "Frontend",
+        "skillName": "TypeScript",
+        "faClass": "devicon-typescript-plain colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "React Native",
+        "faClass": "devicon-reactnative-original colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "Sass",
+        "faClass": "devicon-sass-original colored"
+      },
+      {
+        "category": "Frontend",
+        "skillName": "Vite",
+        "faClass": "devicon-vitejs-plain colored"
+      },
+      {
         "category": "Backend",
         "skillName": "PHP",
         "faClass": "devicon-php-plain colored"
@@ -97,14 +117,59 @@
         "faClass": "devicon-laravel-plain colored"
       },
       {
+        "category": "Backend",
+        "skillName": "NodeJS",
+        "faClass": "devicon-nodejs-plain colored"
+      },
+      {
+        "category": "Backend",
+        "skillName": "Redis",
+        "faClass": "devicon-redis-plain colored"
+      },
+      {
         "category": "Database",
         "skillName": "MySQL",
         "faClass": "devicon-mysql-original colored"
-      }, 
+      },
+      {
+        "category": "Database",
+        "skillName": "PostgreSQL",
+        "faClass": "devicon-postgresql-plain colored"
+      },
+      {
+        "category": "Database",
+        "skillName": "Supabase",
+        "faClass": "devicon-supabase-plain colored"
+      },
       {
         "category": "Database",
         "skillName": "Firebase",
         "faClass": "devicon-firebase-plain colored"
+      },
+      {
+        "category": "DevOps",
+        "skillName": "Docker",
+        "faClass": "devicon-docker-plain colored"
+      },
+      {
+        "category": "DevOps",
+        "skillName": "Git",
+        "faClass": "devicon-git-plain colored"
+      },
+      {
+        "category": "DevOps",
+        "skillName": "Nginx",
+        "faClass": "devicon-nginx-original colored"
+      },
+      {
+        "category": "DevOps",
+        "skillName": "AWS",
+        "faClass": "devicon-amazonwebservices-plain-wordmark colored"
+      },
+      {
+        "category": "DevOps",
+        "skillName": "Vercel",
+        "faClass": "devicon-vercel-original colored"
       }
     ]
   },
