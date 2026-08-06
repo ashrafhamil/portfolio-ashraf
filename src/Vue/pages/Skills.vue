@@ -8,7 +8,7 @@
         <ul class="list-inline d-flex justify-content-center flex-wrap gap-3" data-aos="fade-right"
           data-aos-duration="1000">
           <li v-for="category in uniqueCategories" :key="category" class="list-inline-item">
-            <a class="nav-item p-2 p-md-4" :class="category === currentCategory" :data-category="category"
+            <a class="nav-item p-2 p-md-4" :class="{ active: category === currentCategory }" :data-category="category"
               @click="setCategory">
               {{ category }}
             </a>
