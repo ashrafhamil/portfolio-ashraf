@@ -168,6 +168,11 @@
       },
       {
         "category": "DevOps",
+        "skillName": "Cloudflare",
+        "faClass": "devicon-cloudflare-plain colored"
+      },
+      {
+        "category": "DevOps",
         "skillName": "Vercel",
         "faClass": "devicon-vercel-original colored"
       }
