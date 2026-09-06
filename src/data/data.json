@@ -316,22 +316,6 @@
       "filter": "React"
     },
     {
-      "title": "Pokedek",
-      "description": "React",
-      "image": "mypokedek.jpg",
-      "link": "https://mypokedek.vercel.app/",
-      "source": "https://mypokedek.vercel.app/",
-      "filter": "React"
-    },
-    {
-      "title": "Portfolio",
-      "description": "Yap's Portfolio",
-      "image": "yapportfolio.jpg",
-      "link": "https://ashrafhamil.com/",
-      "source": "https://ashrafhamil.com/",
-      "filter": "Bootstrap/Tailwind"
-    },
-    {
       "title": "Referral",
       "description": "Yap's Referral Codes",
       "image": "yaprefer.jpg",
