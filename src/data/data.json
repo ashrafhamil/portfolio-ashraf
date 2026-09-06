@@ -212,6 +212,14 @@
   "defaultFilter": "Web",
   "projects": [
     {
+      "title": "Shay Ahmad",
+      "description": "Property Agent Lead Page — Concept, Perak/Penang/Kedah",
+      "image": "shayahmad.jpg",
+      "link": "https://shayahmad.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
       "title": "Santuy Play",
       "description": "Badminton Booking & Rewards — KL/Selangor",
       "image": "santuyplay.jpg",
