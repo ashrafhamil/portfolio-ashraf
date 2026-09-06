@@ -212,6 +212,30 @@
   "defaultFilter": "Web",
   "projects": [
     {
+      "title": "Adriana",
+      "description": "Short-Form Video Creator Portfolio — Kuching, Sarawak",
+      "image": "adriana.jpg",
+      "link": "https://studio-adriana.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Teratak Paklong",
+      "description": "Homestay & Event Space Booking — Malaysia",
+      "image": "teratakpaklong.jpg",
+      "link": "https://amira-homestay.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Kitab Maulana",
+      "description": "Malay Phrase Dictionary — Humour Side Project",
+      "image": "kitabmaulana.jpg",
+      "link": "https://apetogetherstonk.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
       "title": "Santuy Play",
       "description": "Badminton Booking & Rewards — KL/Selangor",
       "image": "santuyplay.jpg",
