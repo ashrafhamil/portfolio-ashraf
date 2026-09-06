@@ -212,10 +212,10 @@
   "defaultFilter": "Web",
   "projects": [
     {
-      "title": "Adriana",
-      "description": "Short-Form Video Creator Portfolio — Kuching, Sarawak",
-      "image": "adriana.jpg",
-      "link": "https://studio-adriana.vercel.app/",
+      "title": "Santuy Play",
+      "description": "Badminton Booking & Rewards — KL/Selangor",
+      "image": "santuyplay.jpg",
+      "link": "https://santuy-play.vercel.app/",
       "source": "",
       "filter": "Web"
     },
@@ -224,22 +224,6 @@
       "description": "Homestay & Event Space Booking — Malaysia",
       "image": "teratakpaklong.jpg",
       "link": "https://amira-homestay.vercel.app/",
-      "source": "",
-      "filter": "Web"
-    },
-    {
-      "title": "Kitab Maulana",
-      "description": "Malay Phrase Dictionary — Humour Side Project",
-      "image": "kitabmaulana.jpg",
-      "link": "https://apetogetherstonk.vercel.app/",
-      "source": "",
-      "filter": "Web"
-    },
-    {
-      "title": "Santuy Play",
-      "description": "Badminton Booking & Rewards — KL/Selangor",
-      "image": "santuyplay.jpg",
-      "link": "https://santuy-play.vercel.app/",
       "source": "",
       "filter": "Web"
     },
@@ -260,11 +244,27 @@
       "filter": "Web"
     },
     {
+      "title": "Adriana",
+      "description": "Short-Form Video Creator Portfolio — Kuching, Sarawak",
+      "image": "adriana.jpg",
+      "link": "https://studio-adriana.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
       "title": "Kira-Kira",
       "description": "Kopitiam Split-Bill Tracker",
       "image": "kirakira.jpg",
       "link": "https://kira-kira-ashrafhamils-projects.vercel.app/",
       "source": "https://github.com/ashrafhamil/kira-kira",
+      "filter": "Web"
+    },
+    {
+      "title": "Kitab Maulana",
+      "description": "Malay Phrase Dictionary — Humour Side Project",
+      "image": "kitabmaulana.jpg",
+      "link": "https://apetogetherstonk.vercel.app/",
+      "source": "",
       "filter": "Web"
     },
     {
@@ -301,12 +301,12 @@
     },
     {
       "title": "Pokedek",
-      "description": "Vue",
-      "image": "vuepokedek.jpg",
-      "link": "https://vuepokedek.vercel.app/",
-      "source": "https://vuepokedek.vercel.app/",
-      "filter": "Vue"
-        },
+      "description": "React",
+      "image": "mypokedek.jpg",
+      "link": "https://mypokedek.vercel.app/",
+      "source": "https://mypokedek.vercel.app/",
+      "filter": "React"
+    },
     {
       "title": "Pokedek",
       "description": "React",
@@ -321,7 +321,7 @@
       "image": "yapportfolio.jpg",
       "link": "https://ashrafhamil.com/",
       "source": "https://ashrafhamil.com/",
-      "filter": "Vue"
+      "filter": "Bootstrap/Tailwind"
     },
     {
       "title": "Referral",
