@@ -212,14 +212,6 @@
   "defaultFilter": "Web",
   "projects": [
     {
-      "title": "Asnafil Resource",
-      "description": "Gas PETRONAS LPG Dealer — Selayang",
-      "image": "asnafil.jpg",
-      "link": "https://asnafil-lpg.vercel.app/",
-      "source": "",
-      "filter": "Web"
-    },
-    {
       "title": "Shay Ahmad",
       "description": "Property Agent Lead Page — Perak/Penang/Kedah",
       "image": "shayahmad.jpg",
@@ -256,6 +248,14 @@
       "description": "Property Firm — Concept, Perak",
       "image": "azmi.jpg",
       "link": "https://azmi-co-perak-web.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Asnafil Resource",
+      "description": "Gas PETRONAS LPG Dealer — Selayang",
+      "image": "asnafil.jpg",
+      "link": "https://asnafil-lpg.vercel.app/",
       "source": "",
       "filter": "Web"
     },
