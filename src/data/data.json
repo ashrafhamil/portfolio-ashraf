@@ -268,6 +268,22 @@
       "filter": "Web"
     },
     {
+      "title": "EzHR Malaysia",
+      "description": "HR Consulting Website Redesign — Concept, Petaling Jaya",
+      "image": "ezhr.jpg",
+      "link": "https://ezhr-redesign.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
+      "title": "Careclinics Senawang",
+      "description": "Medical Clinic Website — Concept, Seremban",
+      "image": "careclinics.jpg",
+      "link": "https://careclinics-senawang.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
       "title": "Kira-Kira",
       "description": "Kopitiam Split-Bill Tracker",
       "image": "kirakira.jpg",
