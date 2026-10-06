@@ -284,6 +284,14 @@
       "filter": "Web"
     },
     {
+      "title": "KOGUNA Calculator",
+      "description": "Roadtax, Insurance & Financing Calculator — Concept, Koperasi Felda",
+      "image": "koguna.jpg",
+      "link": "https://koguna-calculator.vercel.app/",
+      "source": "",
+      "filter": "Web"
+    },
+    {
       "title": "Kira-Kira",
       "description": "Kopitiam Split-Bill Tracker",
       "image": "kirakira.jpg",
